@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/kinguin-libre",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Paulo Fernando",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  
+  }
+}
